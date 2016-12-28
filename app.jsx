@@ -10,14 +10,14 @@ function Application() {
           <div className="player-name">
             Jim Hoskins
           </div>
-          <div className="player-score>
+          <div className="player-score">
             <div className="counter">
               <button className="counter-action decrement"> - </button>
               <div className="counter-score"> 31 </div>
               <button className="counter-action increment"> + </button>
             </div>
-           </div>
-         </div>
+          </div>
+        </div>
       </div>
     </div>
   );
